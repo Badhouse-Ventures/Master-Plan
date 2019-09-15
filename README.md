@@ -30,6 +30,6 @@ In addition to sheer love of building startups, the motivations for creating thi
 
 ### Who are we?
 
-The Badhouse team is not yet finalised, nor is our website, as we have not officially launched! So far, the team we're building tentatively includes ex-founders, ex-consultants, a PhD, a Y-combinator graduate, a solution architect, those that have had roles on the investment side of the table, men, women, and those who have lived in North America, Europe, Asia, and Africa.
+The Badhouse team is not yet finalised, nor is our website, as we have not officially launched! So far, the team we're building tentatively includes ex-founders, ex-consultants, a PhD, a Y combinator graduate, a solution architect, those that have had roles on the investment side of the table, men, women, and those who have lived in North America, Europe, Asia, and Africa.
 
 For now, if you'd like to get in touch with us, feel free to reach out to: hello[at]badhouse.ca
