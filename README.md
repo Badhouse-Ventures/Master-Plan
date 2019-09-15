@@ -4,7 +4,7 @@ We're building a hands-on, founder-friendly, pre-seed incubator-studio focusing 
 
 Yes, that means that we're looking for feedback from startup founders, past and present, so go ahead and post issues or make pull requests on anything in this repo outside of this README file! Help us refine what things should be like to best support early-stage venture founders.
 
->If you're short on time or have nothing to suggest for the plan, but still want to show your support for this initiative, we ask that you please **star the repository** and **re-share** it with those who might be interested. We would, of course, also graciously accept any Bitcoin donations sent to [156HAFYoxeaVVg7vpt6dmcqqRR9pNf4HSv](https://live.blockcypher.com/btc/address/156HAFYoxeaVVg7vpt6dmcqqRR9pNf4HSv/) to help speed up our launch.
+>If you're short on time or have nothing to suggest for the plan, but still want to show your support for this initiative, we ask that you please **star the repository** and **share it** with those who might be interested. We would, of course, also graciously accept any Bitcoin donations sent to [156HAFYoxeaVVg7vpt6dmcqqRR9pNf4HSv](https://live.blockcypher.com/btc/address/156HAFYoxeaVVg7vpt6dmcqqRR9pNf4HSv/) to help speed up our launch.
 
 ### What's an _incubator-studio_?
 
