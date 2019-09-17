@@ -1,6 +1,6 @@
 # Badhouse Ventures - Incubator Master Plan
 
-We're building a hands-on, founder-friendly, pre-seed incubator-studio focusing on the data value chain and solving big problems. As we continue to assemble a crack team of collaborators from diverse backgrounds and some kick-ass investor partners, we're open-sourcing the high-level version of our master plan. We're starting with a manifesto that's part business plan as well.
+We're building a hands-on, founder-friendly, pre-seed incubator-studio focusing on the data value chain and solving big problems. As we continue to assemble a crack team of collaborators from diverse backgrounds and some kick-ass investor partners, we're open-sourcing the high-level version of our master plan. We're starting with a manifesto and (soon) a high-level business model.
 
 Yes, that means that we're looking for feedback from startup founders, past and present, so go ahead and post issues or make pull requests on anything in this repo outside of this README file! Help us refine what things should be like to best support early-stage venture founders.
 
