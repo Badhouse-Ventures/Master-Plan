@@ -9,7 +9,7 @@ Yes, that means that we're looking for feedback from startup founders, past and 
 ### What's an _incubator-studio_?
 
 Good question! There's a lot of inconsistent usage for terms like "accelerator" and "incubator". To complicate matters, there are sub-categories (such as a "corporate incubators") and even regional variations. For clarity, here is how we define the following, based on what we see in the Canadian context:
-* _Acelerator_: An organisation that provides training programs, mentorship, connections and, often, office space to early-stage startup founders. Typically there is some fee to access these services, at minimum for the office space.
+* _Accelerator_: An organisation that provides training programs, mentorship, connections and, often, office space to early-stage startup founders. Typically there is some fee to access these services, at minimum for the office space.
 * _Incubator_: These generally offer the same types of services as an accelerator, but make a small investment in the startup in exchange for a small equity stake. These are extremely rare in Canada; in the US, a good example is Y Combinator.
 * _Startup-studio_: An organisation with a core team, that generates many ideas internally and builds many startups in parallel, following on with those that gain some traction. This type of group is often called a _startup foundry_.
 
