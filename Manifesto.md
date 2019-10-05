@@ -20,4 +20,7 @@ The incubator-studio will have two main "customers": Startup founders and next-r
 * We will be investing funds into the business in return for a fair amount of equity.
 
 ## 2. For next-round investors
-* We will facilitate your deal flow by introducing you to high-quality, more mature startups that are ready for seed(+) investment.
+* We will facilitate your deal flow by introducing you to vetted, higher-quality startups that are ready for seed(+) investment because they will have:
+  * a more mature product
+  * a team with more experience under their belt
+  * a lower risk profile (past an inflection point in profitability, more users, a first B2B or enterprise client, etc.)
