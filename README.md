@@ -9,9 +9,9 @@ Yes, that means that we're looking for feedback from startup founders, past and 
 ### What's an _incubator-studio_?
 
 Good question! There's a lot of inconsistent usage for terms like "accelerator" and "incubator". To complicate matters, there are sub-categories (such as a "corporate incubators") and even regional variations. For clarity, here is how we define the following, based on what we see in the Canadian context:
-* _Accelerator_: An organisation that provides training programs, mentorship, connections and, often, office space to early-stage startup founders. Typically there is some fee to access these services, at minimum for the office space.
-* _Incubator_: These generally offer the same types of services as an accelerator, but make a small investment in the startup in exchange for a small equity stake. These are extremely rare in Canada; in the US, a good example is Y Combinator.
-* _Startup-studio_: An organisation with a core team, that generates many ideas internally and builds many startups in parallel, following on with those that gain some traction. This type of group is often called a _startup foundry_.
+* _Accelerator_: An organisation that provides training programs, mentorship, connections and, often, office space to early-stage startup founders. Typically there is some fee to access these services, at minimum for the office space. Accelerators are quite common and typically have cohorts that range in duration from 3 to 6 months.
+* _Incubator_: These generally offer the same types of services as an accelerator, but make a small investment in the startup in exchange for a small equity stake, either directly or a convertible instrument for future equity. These are extremely rare in Canada; in the US, a good example is Techstars, recently expanded with programs in Toronto and Montreal, though they call themselves an "accelerator"!
+* _Startup-studio_: An organisation with a core team, that generates many ideas internally and builds several startup teams in parallel, following on with those that gain some traction. This type of group is often called a _startup foundry_. One example of such an organisation is TandemLaunch in Montreal.
 
 Which brings us to what we're building, an **_incubator-studio_**. We describe this hybrid as:
 * Providing funds in exchange for equity and mentorship like an incubator, but also getting involved in building the startup. This should feel like having an additional minority co-founder.
@@ -30,6 +30,6 @@ In addition to sheer love of building startups, the motivations for creating thi
 
 ### Who are we?
 
-The Badhouse team is not yet finalised, nor is our website, as we have not officially launched! So far, the team we're building tentatively includes ex-founders, ex-consultants, a PhD, a Y combinator graduate, a solution architect, those that have had roles on the investment side of the table, men, women, and those who have lived in North America, Europe, Asia, and Africa.
+The Badhouse team is not yet finalised, nor is our website, as we have not officially launched! So far, the team we're building tentatively includes ex-founders, ex-consultants, a PhD, a solution architect, those that have had roles on the investment side of the table, men, women, and those who have lived in North America, Europe, Asia, and Africa.
 
 For now, if you'd like to get in touch with us, feel free to reach out to: hello[at]badhouse.ca
