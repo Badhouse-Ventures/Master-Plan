@@ -9,14 +9,14 @@ Yes, that means that we're looking for feedback from startup founders, past and 
 ### What's an _incubator-studio_?
 
 Good question! There's a lot of inconsistent usage for terms like "accelerator" and "incubator". To complicate matters, there are sub-categories (such as a "corporate incubators") and even regional variations. For clarity, here is how we define the following, based on what we see in the Canadian context:
-* _Accelerator_: An organisation that provides training programs, mentorship, connections and, often, office space to early-stage startup founders. Typically there is some fee to access these services, at minimum for the office space. Accelerators are quite common and typically have cohorts that range in duration from 3 to 6 months.
-* _Incubator_: These generally offer the same types of services as an accelerator, but make a small investment in the startup in exchange for a small equity stake, either directly or a convertible instrument for future equity. These are extremely rare in Canada; in the US, a good example is Techstars, recently expanded with programs in Toronto and Montreal, though they call themselves an "accelerator"!
-* _Startup-studio_: An organisation with a core team, that generates many ideas internally and builds several startup teams in parallel, following on with those that gain some traction. This type of group is often called a _startup foundry_. One example of such an organisation is TandemLaunch in Montreal.
+* _Accelerator_: An organisation that provides training programs, mentorship, connections and, often, office space to early-stage startup founders. There is sometimes a fee to access these services or for the office space. Accelerators are quite common and typically have cohorts that last around 3 months. A minority of accelerators, like Techstars, also provide some seed capital for each venture in the cohort. In Canada, there are currently no investing-accelerators, often called _seed accelerators_, for technology startups west of Toronto/Waterloo. 
+* _Incubator_: These generally offer the same types of services as an accelerator, but have programs that last a longer period, often a year. Incubators typically chose to focus on a particular phase of the startup lifecycle, many chosing to target the very beginning, the idea stage.
+* _Startup-studio_: An organisation that generates many ideas internally, builds teams to work on these ideas, and then spins out independent startup companies for the projects that gain some traction. This type of group is often called a _startup foundry_. Examples of such organisations include TandemLaunch, Expa, or Idealab.
 
 Which brings us to what we're building, an **_incubator-studio_**. We describe this hybrid as:
-* Providing funds in exchange for equity and mentorship like an incubator, but also getting involved in building the startup. This should feel like having an additional minority co-founder.
-* Though providing some human capital to the selected ventures like a startup-studio, potential ventures are beyond the ideation stage, are sourced externally and selection is heavily based on the quality of the founders pitching the projects.
-* The goal is to mature the incubated ventures so that they are quickly ready for the next level of investment. This can look like: Helping the startup go through the build-test-learn cycles faster, refining a prototype to become a true minimally-viable product, jumpstarting the growth in users or finding the first paying client.
+* Providing seed capital in exchange for equity and support over a longer period, like an incubator, but also getting involved in building the startup. This should feel like having an additional minority co-founder.
+* Though providing some human capital to the selected ventures like a startup-studio, potential ventures are beyond the ideation stage and are sourced externally through a selection process.
+* The goal is to mature the incubated ventures so that they become ready for the next level of investment. This can look like: Helping the startup go through build-test-learn cycles, refining a prototype to become a true minimally-viable product, jumpstarting the growth in users, or finding the first paying enterprise client.
 
 ### Backstory
 
@@ -30,6 +30,6 @@ In addition to sheer love of building startups, the motivations for creating thi
 
 ### Who are we?
 
-The Badhouse team is not yet finalised, nor is our website, as we have not officially launched! So far, the team we're building tentatively includes ex-founders, ex-consultants, a PhD, a solution architect, those that have had roles on the investment side of the table, men, women, and those who have lived in North America, Europe, Asia, and Africa.
+The Badhouse team is not yet finalised, as we have not officially started incubating our first cohort of ventures! So far, the team we're building tentatively includes ex-founders, ex-consultants, former researchers, product managers, those that have had roles on the investment side of the table, men, women, and those who have lived in North America, Europe, and Asia.
 
 For now, if you'd like to get in touch with us, feel free to reach out to: hello[at]badhouse.ca
