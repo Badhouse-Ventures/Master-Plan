@@ -28,6 +28,6 @@ In addition to sheer love of building startups, the motivations for creating thi
 
 ### Who are we?
 
-The Badhouse team core is, and will always be, current and former startup operators.
+The Badhouse team core is, and will always be, current and former startup operators. See: https://www.linkedin.com/company/badhouse-ventures
 
 If you'd like to get in touch with us, feel free to reach out to: hello[at]badhouse.ca
