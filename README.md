@@ -2,7 +2,7 @@
 
 We're building up a hands-on, founder-friendly, pre-seed "incubator-studio" focusing on the data value chain and solving big problems. As we continue to grow a crack team of collaborators from diverse backgrounds and some kick-ass investor partners, we've kept this high-level version of our master plan open-sourced.
 
-Yes, that means that we're open for feedback from startup founders, past and present, so go ahead and post issues or make pull requests on anything in this repo! Help us refine how best to support very early-stage venture founders.
+Yes, it means that we're open for feedback from startup founders, past and present, so go ahead and post issues or make pull requests on anything in this repo! Help us refine how best to support very early-stage venture founders.
 
 ### What's an _incubator-studio_?
 
