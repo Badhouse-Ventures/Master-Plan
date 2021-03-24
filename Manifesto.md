@@ -1,11 +1,11 @@
 # The Badhouse Ventures Manifesto
 
-The incubator-studio will have two main "customers": Startup founders and next-round investors. This manifesto outlines our intentions to provide value to both of these groups.
+The incubator-studio (i.e., pre-seed VC investing and providing hands-on startup operator support) will have two main "customers": Startup founders and next-round investors. This manifesto outlines our intentions to provide value to both of these groups.
 
 ## 1. For startup founders
 
 * We will be getting our hands dirty alongside the startup founders. This may include:
-  * technical work, such as technical architecture, sourcing compute power, doing website development, acting as alpha testers, etc.
+  * technical work, such as technical architecture, sourcing compute power, doing website development, acting as beta testers, etc.
   * client-facing work, such as assisting with technical support, making connections to get first clients, etc.
   * being a recruiter
   * contributing to administrative tasks
