@@ -5,11 +5,11 @@ Our VC firm, focused on investing and providing hands-on startup operator suppor
 ## 1. For startup founders
 * We will be getting our hands dirty alongside the startup founders. This may include:
   * technical advice, such as technical architecture, sourcing compute power, acting as beta testers, etc.
-  * client-facing work, such as assisting with technical support, making connections to get first clients, etc.
+  * client-facing interactions, such as assisting with technical support, collecting feedback, making connections to get first clients, etc.
   * being a recruiter
-  * contributing to administrative tasks
-  * providing or sourcing legal support (including incorporation, if necessary)
-  * making investor introductions and helping founders refine their pitch
+  * assisting with business and financial modeling 
+  * sourcing legal support
+  * making investor introductions and helping to refine the investment pitch
 * We will endeavour to help startup founders focus on building; technical building, but also building a user base and business development.
 * Progress will be measured by:
   * cycling through build-test-learn cycles
